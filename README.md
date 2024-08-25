@@ -1,1 +1,1 @@
-# Securing-Images-from-Cryptotext-using-DWT-and-Hilbert-Curve-
+# Securing-Images-from-Cryptotext-using-DWT-and-Hilbert-Curve
