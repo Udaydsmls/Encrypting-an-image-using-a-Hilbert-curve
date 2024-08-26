@@ -1,4 +1,4 @@
-# Securing-Images-from-Cryptotext-using-DWT-and-Hilbert-Curve
+# Encrypting-an-image-using-a-Hilbert-curve
 
 ## The idea behind the project is to convert an image file to text file using a Hilbert curve while also removing any steganography from the image.
 
